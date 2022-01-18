@@ -1,25 +1,16 @@
 # Курс "Алгоритмы, программирование и структуры данных"
 
-### Для копирования данного репозитория в свой кабинет github.com необходимо:
+### Задачи занятия № 07: Стек вызовов, рекурсия
 
-- Нажать на ссылку `fork` в правом верхнем углу 
-- Нажать на зеленую кнопку `code` в созданном экземпляре репозитория 
-- Скопировать ссылку https-ссылку из открывшегося окна
-- Открыть терминал в папке своих проектов
-- Ввест в терминале команду `git clone` и вставить через пробел скопированную ссылку. Пример:
+- [] Реализовать функцию матрешка (файл - matryoshka.py)
+- [+] Реализовать функцию для вычисления двоичной записи любого числа (binary_number.py)
+- [+] Реализовать функцию бинарного поиска (binary_search.py)
+- [+] Домашнее задание. Два велосипеда (bikes.py)
+- [+] Домашнее задание. Гереатор скобок (generator.py)
+- [+] Домашнее задание. Комбинации (combination.py)
 
-```bash
-git clone https://github.com/SitNickOff/algorithms-sirius.git
-```
-
-Workflow для github: https://www.figma.com/file/1YsaOtJayQapUo2B3FJBz7/github-workflow?node-id=0%3A1
-## Шпаргалка Git
-
-- Документация: https://git-scm.com/book/ru/v2
-- Интерактивный тур: https://githowto.com/ru
-
-## Шпаргалка Python
-
-```bash
-git checkout python
-```
+Теория: 
+1. Примеры задач на рекурсию: https://www.figma.com/file/83PQbJXKbUWVNEFR1lMlHq/theory?node-id=464%3A3
+2. Рекурсивный и базовый случай: https://www.figma.com/file/83PQbJXKbUWVNEFR1lMlHq/theory?node-id=464%3A29
+3. Реализация бинарного поиска с помощью рекурсии: https://www.figma.com/file/83PQbJXKbUWVNEFR1lMlHq/theory?node-id=464%3A31
+4. Рекурсивный перебор вариантов: https://www.figma.com/file/83PQbJXKbUWVNEFR1lMlHq/theory?node-id=464%3A33
